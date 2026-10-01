@@ -4,4 +4,5 @@ Bible-Pro：多版本圣经对照阅读、全文搜索、灵修笔记与读经�
 ---
 
 # 下载/Download
-下载最新版本请到 https://github.com/ethan001907/Bible-Pro/releases
+下载Windows和macos请到 https://github.com/ethan001907/Bible-Pro/releases/tag/2.2.2
+下载android、iPhone和iPad请到 https://github.com/ethan001907/Bible-Pro/releases/tag/5.0.12
